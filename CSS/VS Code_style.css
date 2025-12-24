@@ -1,0 +1,10 @@
+        b,p{
+            font-size: x-large;
+        }
+        .first{float: left;background-color: rgb(191, 186, 186);margin-top: 30px;
+ padding: 15px; border-radius:11px ;border: 2px solid grey;margin: 30px ;
+        }
+        .two{float: left;background-color: white; margin-top: 30px;
+ padding: 15px; border-radius:11px ;border: 2px solid grey;margin: 30px ;
+             
+        }
